@@ -40,7 +40,7 @@ This project aims to address the following tasks:
 
 ## **Methodology**
 
-This project will focus on two major aspects:
+This project will focus on four major aspects:
 
 The proposed Shiny App will be an interactive visualisation tool designed to assist FishEye International in their efforts to identify and prevent illegal fishing activities in the Oceanus region.
 
@@ -56,7 +56,7 @@ The app will leverage visual analytics techniques to analyse the complex busines
 
 The proposed Shiny App will leverage interactive visualisations, clustering algorithms, and evaluative metrics to provide FishEye International with a comprehensive visual analytics tool for uncovering patterns, relationships, and potential indicators of illegal fishing activities within the Oceanus region.
 
-## Prototype
+## **Prototype**
 
 An early prototype of the network analysis was drawn.
 
@@ -64,7 +64,7 @@ The nodes represent the companies while the edges represent the executives relat
 
 ![Sketch of network graph prototype](images/prototype.jpg)
 
-## Projected Timeline
+## **Projected Timeline**
 
 The team provisioned that the project will last for 4 weeks. A significant portion of time will be dedicated to analysis (Network, Temporal, Transaction).
 

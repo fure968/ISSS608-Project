@@ -6,13 +6,13 @@ format:
       theme: dark
 ---
 
-## **About the team**
+## **The team**
 
 ### **ISSS608 Visual Analytics & Applications Project (Group 3)**
 
 ```{mermaid}
 flowchart TD
-A{Shark Tank}--- B[Temporal patterns and changes in corporate structures]
+A{Shark Tank}--- B[Temporal analysis of influence networks]
 B --> C(Guan Jhen)
 B --> D(Joshua)
 B --> E(Zi Jun)
