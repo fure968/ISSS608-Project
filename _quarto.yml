@@ -13,7 +13,7 @@ website:
     right:
       - text: "The Team"
         href: about.qmd
-      - text: "Proposal"
+      - text: "Project Proposal"
         href: Proposal.qmd
       - text: "Project Overview"
         href: project_overview.qmd
@@ -30,7 +30,7 @@ website:
 format:
   html:
     grid: 
-      margin-width: 150px
+      margin-width: 180px
     theme: cosmo
     highlight-style: github
     code-copy: hover

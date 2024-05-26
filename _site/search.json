@@ -1,16 +1,65 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ISSS608-Project",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "objectID": "Proposal.html#introduction",
+    "href": "Proposal.html#introduction",
+    "title": "Project Title: Shark Tank",
+    "section": "Introduction",
+    "text": "Introduction\nOceanus is an island nation with a thriving commercial fishing market where most companies adhere to regulations and sustainable practices. However, some companies prioritise profit over ethics, engaging in illegal activities. Hence, FishEye International, a non-profit organisation combating illegal fishing, has created a knowledge graph called CatchNet: the Oceanus Knowledge Graph from diverse data sources to maintain a watchful eye on fishing data for compliance and sustainability in the industry.\nRecently, the commercial fishing sector was disrupted when SouthSeafood Express Corp was caught engaging in illegal fishing. FishEye seeks to analyse temporal patterns and infer the impacts of this incident on the fishing marketplace. The competitive nature of the market may lead some businesses to capture SouthSeafood’s market share, while others may recognise the consequences of illegal activities.\nFishEye is highly invested in developing visualisation tools that work with CatchNet to help analysts better identify bias, track behaviour changes, and infer temporal patterns. In turn, to identify the people who own nefarious companies or business networks and hold them accountable."
+  },
+  {
+    "objectID": "Proposal.html#motivation",
+    "href": "Proposal.html#motivation",
+    "title": "Project Title: Shark Tank",
+    "section": "Motivation",
+    "text": "Motivation\nThe primary motivation for our task is to develop visualisations to show changes in business relationships within the commercial fishing industry. This will allow FishEye to better understand how companies react to the closure of a competitor caught fishing illegally and how these changes affect influence networks. The recent incident involving SouthSeafood Express Corp’s illegal fishing activities has also raised concerns about the potential ripple effects and changes within the fishing marketplace.\nFishEye International aims to leverage visual analytics techniques to analyse the complex business networks, ownership structures, and transactions within the commercial fishing industry to identify and prevent illegal fishing activities in the sensitive marine ecosystem of the Oceanus region."
+  },
+  {
+    "objectID": "Proposal.html#project-objectives",
+    "href": "Proposal.html#project-objectives",
+    "title": "Project Title: Shark Tank",
+    "section": "Project Objectives",
+    "text": "Project Objectives\nThis project aims to address the following tasks:\n\nIdentify and examine anomalies and patterns in the knowledge graph to highlight changes in corporate structures.\nDevelop a visual analytics process to identify typical and atypical business transactions, such as mergers or acquisitions, and infer the motivations behind changes in business activities over time.\nConduct in-depth examinations of the inferences and analyse the relationships within ownership networks.\nProvide evidence for or against the involvement of anomalous companies in illegal fishing activities. Based on the analyses conducted in tasks 1 to 3, further investigate if there are any other suspicious transactions."
+  },
+  {
+    "objectID": "Proposal.html#methodology",
+    "href": "Proposal.html#methodology",
+    "title": "Project Title: Shark Tank",
+    "section": "Methodology",
+    "text": "Methodology\nThis project will focus on two major aspects:\nThe proposed Shiny App will be an interactive visualisation tool designed to assist FishEye International in their efforts to identify and prevent illegal fishing activities in the Oceanus region.\nThe app will leverage visual analytics techniques to analyse the complex business networks, ownership structures, and transactions within the commercial fishing industry. It will consist of several tabs, highlighting important information related to the tasks:\n\nTemporal Analysis: This tab will provide visualisations to highlight temporal patterns and changes in corporate structures, focusing on the most active people and businesses over time.\nTransaction Analysis: This tab will feature an interactive network graph (visNetwork) that visualises different groups of businesses and their transactions, allowing users to explore typical and atypical business activities (e.g., mergers, acquisitions).\nInfluence Analysis: This tab will propose clusters based on user-defined criteria, enabling analysts to examine the changing influence of companies, including potential ownership or influence within business networks.\nCase Study: SouthSeafood Express Corp: This tab will focus specifically on the network associated with SouthSeafood Express Corp, visualising how this network and competing businesses changed in response to their illegal fishing behaviour. It will aim to identify companies that potentially benefited from SouthSeafood Express Corp’s legal troubles and uncover any other suspicious transactions related to illegal fishing activities.\n\nThe proposed Shiny App will leverage interactive visualisations, clustering algorithms, and evaluative metrics to provide FishEye International with a comprehensive visual analytics tool for uncovering patterns, relationships, and potential indicators of illegal fishing activities within the Oceanus region."
+  },
+  {
+    "objectID": "Proposal.html#prototype",
+    "href": "Proposal.html#prototype",
+    "title": "Project Title: Shark Tank",
+    "section": "Prototype",
+    "text": "Prototype\nAn early prototype of the network analysis was drawn.\nThe nodes represent the companies while the edges represent the executives related to the company.\n\n\n\nSketch of network graph prototype"
+  },
+  {
+    "objectID": "Proposal.html#projected-timeline",
+    "href": "Proposal.html#projected-timeline",
+    "title": "Project Title: Shark Tank",
+    "section": "Projected Timeline",
+    "text": "Projected Timeline\nThe team provisioned that the project will last for 4 weeks. A significant portion of time will be dedicated to analysis (Network, Temporal, Transaction)."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal patterns and changes in corporate structures]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "about.html#about-the-team",
+    "href": "about.html#about-the-team",
+    "title": "About",
+    "section": "",
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal patterns and changes in corporate structures]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "project_overview.html",
+    "href": "project_overview.html",
+    "title": "ISSS608_Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3"
   }
 ]
