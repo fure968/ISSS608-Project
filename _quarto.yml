@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "ISSS608 Project (Group 3)"
+  image: "images/ship.jpg"
+  favicon: "images/fishhook.png"
+  navbar:
+    logo: "images/fishhook.png"
+    title: false
+    collapse-below: lg
+    search: true
+    right:
+      - text: "The Team"
+        href: about.qmd
+      - text: "Proposal"
+        href: Proposal.qmd
+      - text: "Project Overview"
+        href: project_overview.qmd
+      - text: "Shiny App"
+        menu:
+          - text: "User Guide"
+            href: shinyapp/shinyapp1.html
+          - text: "Shiny App"
+            href: shinyapp/shinyapp2.html
+      - text: "Project Poster"
+        href: poster/poster.html
+
+
+format:
+  html:
+    grid: 
+      margin-width: 150px
+    theme: cosmo
+    highlight-style: github
+    code-copy: hover
+    code-overflow: wrap
+    css: styles.css
+    toc: true
+
+editor: visual
+  
