@@ -12,11 +12,11 @@ website:
     search: true
     right:
       - text: "The Team"
-        href: about.qmd
+        href: about.html
       - text: "Project Proposal"
-        href: Proposal.qmd
+        href: Proposal.html
       - text: "Project Overview"
-        href: project_overview.qmd
+        href: project_overview.html
       - text: "Shiny App"
         menu:
           - text: "User Guide"
@@ -24,7 +24,7 @@ website:
           - text: "Shiny App"
             href: shinyapp/shinyapp2.html
       - text: "Project Poster"
-        href: poster/poster.html
+        href: poster.html
 
 
 format:
