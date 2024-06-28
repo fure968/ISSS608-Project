@@ -1,0 +1,3 @@
+[**Project Poster**]{.underline}
+
+![](images/VAA-Poster_final_adjusted300.jpg){fig-align="center"}
