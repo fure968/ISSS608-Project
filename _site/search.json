@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "userguide.html",
+    "href": "userguide.html",
+    "title": "User Guide",
+    "section": "",
+    "text": "User Guide"
+  },
+  {
+    "objectID": "project_overview.html",
+    "href": "project_overview.html",
+    "title": "ISSS608_Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "about.html#the-team",
+    "href": "about.html#the-team",
+    "title": "About",
+    "section": "",
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "Poster.html",
+    "href": "Poster.html",
+    "title": "ISSS608 Project (Group 3)",
+    "section": "",
+    "text": "Project Poster"
+  },
+  {
     "objectID": "Proposal.html#introduction",
     "href": "Proposal.html#introduction",
     "title": "Project Title: Shark Tank",
@@ -40,6 +75,7 @@
     "title": "Project Title: Shark Tank",
     "section": "Projected Timeline",
     "text": "Projected Timeline\nThe team provisioned that the project will last for 4 weeks. A significant portion of time will be dedicated to analysis (Network, Temporal, Transaction)."
+
   },
   {
     "objectID": "about.html",
@@ -61,5 +97,6 @@
     "title": "VAST Challenge 2024 - Mini Challenge 3",
     "section": "",
     "text": "For the VAST Challenge 2024, participants may partake in either of the 3 mini-challenges and/or one grand challenge. For this project, the group will be attempting mini challenge 3 which aims to use visual analysis to carry out temporal analysis and identify the people who hold influence over business networks in Oceanus.\n\nMini-Challenge 3: Temporal Analysis\nOceanus’s commercial fishing business community was rocked by the news that SouthSeafood Express Corp was caught fishing illegally. FishEye wants to understand temporal patterns and infer what may be happening in Oceanus’s fishing marketplace because of SouthSeafood Express Corp’s illegal behavior and eventual closure. The competitive nature of Oceanus’s fishing market may cause some businesses to react aggressively to capture SouthSeafood Express Corp’s business while other reactions may come from the awareness that illegal fishing does not go undetected and unpunished.\nChallenge tasks and objectives:\n\n\n\n\n\n\n\n\nCreating a visual analytics approach that analysts can use to highlight temporal patterns and changes in corporate structures. Examine the most active people and businesses using visual analytics.\n\n\n\nUsing visualisations to find and display examples of typical and atypical business transactions (e.g., mergers, acquisitions, etc.). Can you infer the motivations behind changes in their activity?\n\n\n\nDeveloping a visual approach to examine inferences. Infer how the influence of a company changes through time. Can you infer ownership or influence that a network may have?.\n\n\n\nIdentifying the network associated with SouthSeafood Express Corp and visualize how this network and competing businesses change as a result of their illegal fishing behavior. Especially, the companies that benefited from SouthSeafood Express Corp’s legal troubles.\n\n\n\nA poster will also be developed to highlight:\nIssues and problems - A clear statement of the issues or/and problems your project addresses.\nMotivation - An explanation of why the issues and/or problems are interesting and what make them difficult to solve.\nApproach - A description of the techniques or algorithms you used to solve the problem.\nResults - Screenshots and a working demo of the system (R Shiny Application) you built.\nFuture Work - An explanation of how the work could be extended."
+
   }
 ]

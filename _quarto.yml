@@ -12,19 +12,19 @@ website:
     search: true
     right:
       - text: "The Team"
-        href: about.qmd
+        href: about.html
       - text: "Project Proposal"
-        href: Proposal.qmd
+        href: Proposal.html
       - text: "Project Overview"
-        href: project_overview.qmd
+        href: project_overview.html
       - text: "Shiny App"
         menu:
           - text: "User Guide"
-            href: shinyapp/shinyapp1.html
+            href: userguide.html
           - text: "Shiny App"
-            href: shinyapp/shinyapp2.html
+            href: https://2024smu.shinyapps.io/VAAAAAA/
       - text: "Project Poster"
-        href: poster/poster.html
+        href: Poster.html
 
 
 format:
