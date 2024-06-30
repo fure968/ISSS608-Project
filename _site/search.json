@@ -7,6 +7,34 @@
     "text": "User Guide"
   },
   {
+    "objectID": "project_overview.html",
+    "href": "project_overview.html",
+    "title": "ISSS608_Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "about.html#the-team",
+    "href": "about.html#the-team",
+    "title": "About",
+    "section": "",
+    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
+  },
+  {
+    "objectID": "Poster.html",
+    "href": "Poster.html",
+    "title": "ISSS608 Project (Group 3)",
+    "section": "",
+    "text": "Project Poster"
+  },
+  {
     "objectID": "Proposal.html#introduction",
     "href": "Proposal.html#introduction",
     "title": "Project Title: Shark Tank",
@@ -47,33 +75,5 @@
     "title": "Project Title: Shark Tank",
     "section": "Projected Timeline",
     "text": "Projected Timeline\nThe team provisioned that the project will last for 4 weeks. A significant portion of time will be dedicated to analysis (Network, Temporal, Transaction)."
-  },
-  {
-    "objectID": "Poster.html",
-    "href": "Poster.html",
-    "title": "ISSS608 Project (Group 3)",
-    "section": "",
-    "text": "Project Poster"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
-  },
-  {
-    "objectID": "about.html#the-team",
-    "href": "about.html#the-team",
-    "title": "About",
-    "section": "",
-    "text": "flowchart TD\nA{Shark Tank}--- B[Temporal analysis of influence networks]\nB --&gt; C(Guan Jhen)\nB --&gt; D(Joshua)\nB --&gt; E(Zi Jun)"
-  },
-  {
-    "objectID": "project_overview.html",
-    "href": "project_overview.html",
-    "title": "ISSS608_Project",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1 + 1\n\n[1] 3"
   }
 ]
