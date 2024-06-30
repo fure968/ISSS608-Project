@@ -22,7 +22,7 @@ website:
           - text: "User Guide"
             href: userguide.html
           - text: "Shiny App"
-            href: Shinyapp.html
+            href: https://2024smu.shinyapps.io/VAAAAAA/
       - text: "Project Poster"
         href: Poster.html
 
