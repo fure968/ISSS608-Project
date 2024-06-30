@@ -1,11 +1,30 @@
 ---
-title: "ISSS608_Project"
+title: "VAST Challenge 2024 - Mini Challenge 3"
 ---
 
-This is a Quarto website.
+For the VAST Challenge 2024, participants may partake in either of the 3 mini-challenges and/or one grand challenge. For this project, the group will be attempting mini challenge 3 which aims to use visual analysis to carry out temporal analysis and identify the people who hold influence over business networks in Oceanus.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### **Mini-Challenge 3: Temporal Analysis**
 
-```{r}
-1 + 1 + 1
-```
+Oceanus’s commercial fishing business community was rocked by the news that SouthSeafood Express Corp was caught fishing illegally. FishEye wants to understand temporal patterns and infer what may be happening in Oceanus’s fishing marketplace because of SouthSeafood Express Corp’s illegal behavior and eventual closure. The competitive nature of Oceanus’s fishing market may cause some businesses to react aggressively to capture SouthSeafood Express Corp’s business while other reactions may come from the awareness that illegal fishing does not go undetected and unpunished.
+
+**Challenge tasks and objectives:**
+
+|                                    |                                                                                                                                                                                                    |
+|:----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/1.png){width="65"} | Creating a visual analytics approach that analysts can use to highlight temporal patterns and changes in corporate structures. Examine the most active people and businesses using visual analytics.                                                                                                  |
+| ![](images/2.png){width="65"} | Using visualisations to find and display examples of typical and atypical business transactions (e.g., mergers, acquisitions, etc.). Can you infer the motivations behind changes in their activity?                                                                    |
+| ![](images/3.png){width="65"} | Developing a visual approach to examine inferences. Infer how the influence of a company changes through time. Can you infer ownership or influence that a network may have?.                                                                           |
+| ![](images/4.png){width="65"} | Identifying the network associated with SouthSeafood Express Corp and visualize how this network and competing businesses change as a result of their illegal fishing behavior. Especially, the companies that benefited from SouthSeafood Express Corp's legal troubles.   |
+
+A poster will also be developed to highlight:
+
+**Issues and problems** - A clear statement of the issues or/and problems your project addresses.
+
+**Motivation** - An explanation of why the issues and/or problems are interesting and what make them difficult to solve.
+
+**Approach** - A description of the techniques or algorithms you used to solve the problem.
+
+**Results** - Screenshots and a working demo of the system (R Shiny Application) you built.
+
+**Future Work** - An explanation of how the work could be extended.
